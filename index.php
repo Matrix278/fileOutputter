@@ -6,7 +6,7 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-    <title>IFile Output</title>
+    <title>File Output</title>
   </head>
   <body>
     <div class="container">
