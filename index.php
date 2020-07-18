@@ -6,11 +6,11 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-    <title>IT & Web Solutions</title>
+    <title>IFile Output</title>
   </head>
   <body>
     <div class="container">
-    <h3 style="margin-top: 20px;">Тестовая среда IT & Web Solutions</h3>
+    <h3 style="margin-top: 20px;">File Output</h3>
         <div class="row">
             <?php
                 $dir    = './';
